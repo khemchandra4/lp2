@@ -1,3 +1,20 @@
 https://d5g00000jtonfea5-dev-ed.develop.lightning.force.com/lightning/setup/SetupOneHome/home
 username: khemchandrac@gmail.com
 password: 4@kahsfhjf
+
+FisrstClass.apxc
+
+public class FirstClass{
+public static void firstMethod()
+{
+
+System.debug('hello world');
+
+}
+}
+then 
+debug-> open execute anyonymous window
+then FirstClass.firstMethod(); in the file 
+then execute and then debug only
+
+https://sites.google.com/view/sushmita-khalane/class/te-computer?authuser=0
